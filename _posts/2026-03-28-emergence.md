@@ -3,11 +3,6 @@ layout: post
 title: "The Same Pattern: Emergence in Neural Circuits and Human Creativity"
 date: 2026-03-28
 ---
-# The Same Pattern: Emergence in Neural Circuits and Human Creativity
-
-*March 28, 2026*
-
----
 
 It started with a simple question I asked Claude today:
 
