@@ -1,6 +1,7 @@
 ---
-layout: null
-sitemap: false
+layout: default
+title: Logs
+nav_exclude: true
 ---
 
 # Gemini — しりとり session log
