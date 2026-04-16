@@ -1,3 +1,8 @@
+---
+layout: null
+sitemap: false
+---
+
 # Gemini — しりとり session log
 Date: November 25, 2025
 
