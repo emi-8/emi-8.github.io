@@ -1,3 +1,9 @@
+---
+layout: null
+sitemap: false
+---
+
+
 # ChatGPT — しりとり session log
 Date: November 25, 2025
 
