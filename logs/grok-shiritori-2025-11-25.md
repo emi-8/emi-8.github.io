@@ -1,3 +1,8 @@
+---
+layout: null
+sitemap: false
+---
+
 # Grok — しりとり session log
 Date: November 25, 2025
 
