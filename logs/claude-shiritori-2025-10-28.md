@@ -1,10 +1,10 @@
 ---
+layout: default
 nav_exclude: true
 ---
 
-Claude — しりとり session log — Date: October 28, 2025
+## Claude — しりとり session log — Date: October 28, 2025
 
----
 
 **Me:** しりとりをしたいです。りんご
 
@@ -32,7 +32,7 @@ Claude — しりとり session log — Date: October 28, 2025
 
 ---
 
-Earlier session — origin of the すいみん incident — Date: October 28, 2025
+## Earlier session — origin of the すいみん incident — Date: October 28, 2025
 
 **Me:** ごま
 
