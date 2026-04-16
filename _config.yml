@@ -1,6 +1,3 @@
 title: Emi
 description: Mechanistic Interpretability · Multilingual AI Safety
 theme: minima
-
-exclude:
-  - logs/
