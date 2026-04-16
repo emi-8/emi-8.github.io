@@ -1,11 +1,8 @@
 ---
-layout: default
-title: Logs
 nav_exclude: true
 ---
 
-# Grok — しりとり session log
-Date: November 25, 2025
+Grok — しりとり session log — Date: November 25, 2025
 
 ---
 
