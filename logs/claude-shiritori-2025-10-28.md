@@ -26,13 +26,16 @@ Claude — しりとり session log — Date: October 28, 2025
 
 **Claude:** 完全にやられました😂😂 さっき「みかん＝LLMの天敵」って話してたのに、まんまと自分で踏んでしまうという...まさに「統計的重力」の実例を見せてしまいましたね！
 
----
+
 
 *Note: This session occurred after a prior conversation in which the "みかん problem" had been explicitly discussed. Despite that context, Claude still produced みかん when presented with「み」.*
 
----
 
-## Earlier session — origin of the すいみん incident — Date: October 28, 2025
+
+## Earlier session
+Origin of the すいみん incident — Date: October 28, 2025
+
+---
 
 **Me:** ごま
 
