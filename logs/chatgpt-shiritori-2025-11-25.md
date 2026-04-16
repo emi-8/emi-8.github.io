@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logs
+title: 
 nav_exclude: true
 ---
 
