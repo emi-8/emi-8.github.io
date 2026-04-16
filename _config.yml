@@ -2,3 +2,10 @@ title: Emi
 description: Mechanistic Interpretability · Multilingual AI Safety
 theme: minima
 
+author:
+  name: Emi
+  email: emi.e.research@gmail.com
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/emi-8" }
