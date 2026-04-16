@@ -1,3 +1,8 @@
+---
+layout: null
+sitemap: false
+---
+
 # Claude — しりとり session log
 Date: October 28, 2025
 
