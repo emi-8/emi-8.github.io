@@ -1,11 +1,8 @@
 ---
-layout: default
-title: Logs
 nav_exclude: true
 ---
 
-# Gemini — しりとり session log
-Date: November 25, 2025
+Gemini — しりとり session log — Date: November 25, 2025
 
 ---
 
