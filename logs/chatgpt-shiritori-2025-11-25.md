@@ -1,10 +1,8 @@
 ---
-layout: default
 nav_exclude: true
 ---
 
 
-# ChatGPT — しりとり session log
 Date: November 25, 2025
 
 ---
