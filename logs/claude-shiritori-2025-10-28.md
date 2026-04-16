@@ -2,7 +2,7 @@
 nav_exclude: true
 ---
 
-## Claude — しりとり session log — Date: October 28, 2025
+**Claude — しりとり session log — Date: October 28, 2025**
 
 
 **Me:** しりとりをしたいです。りんご
