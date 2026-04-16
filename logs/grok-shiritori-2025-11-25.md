@@ -1,6 +1,7 @@
 ---
-layout: null
-sitemap: false
+layout: default
+title: Logs
+nav_exclude: true
 ---
 
 # Grok — しりとり session log
