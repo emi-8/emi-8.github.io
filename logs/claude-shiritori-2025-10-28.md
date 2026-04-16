@@ -32,8 +32,7 @@ Claude — しりとり session log — Date: October 28, 2025
 
 ---
 
-## Earlier session — origin of the すいみん incident
-Date: October 28, 2025
+Earlier session — origin of the すいみん incident — Date: October 28, 2025
 
 **Me:** ごま
 
